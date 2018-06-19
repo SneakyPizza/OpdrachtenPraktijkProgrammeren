@@ -1,0 +1,6 @@
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\RandomElement\bin\Debug\RandomElement.exe.config
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\RandomElement\bin\Debug\RandomElement.exe
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\RandomElement\bin\Debug\RandomElement.pdb
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\RandomElement\obj\Debug\RandomElement.exe
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\RandomElement\obj\Debug\RandomElement.pdb
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\RandomElement\obj\Debug\RandomElement.csprojResolveAssemblyReference.cache

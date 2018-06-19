@@ -1,0 +1,6 @@
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\CalculateHours\bin\Debug\CalculateHours.exe.config
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\CalculateHours\bin\Debug\CalculateHours.exe
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\CalculateHours\bin\Debug\CalculateHours.pdb
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\CalculateHours\obj\Debug\CalculateHours.csprojResolveAssemblyReference.cache
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\CalculateHours\obj\Debug\CalculateHours.exe
+C:\Projects\C#Projects\AnalytischOntwerpen\OpdrachtenPraktijkProgrammeren\OpdrachtenPraktijkProgrammeren\CalculateHours\obj\Debug\CalculateHours.pdb

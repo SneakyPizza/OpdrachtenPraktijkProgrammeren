@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateHours", "CalculateHours\CalculateHours.csproj", "{2FE2084A-32E5-4D5C-B8E8-CC9AEAE45DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomElement", "RandomElement\RandomElement.csproj", "{EFCFF477-32E5-492C-92FE-0872592A36E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriteFiles", "ReadWriteFiles\ReadWriteFiles.csproj", "{96C19CD9-9385-498E-B5FE-76CB31B52C6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcPriceDiffrence", "CalcPriceDiffrence\CalcPriceDiffrence.csproj", "{4EA91C04-7732-418A-AF9F-01E492ED2CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcBtw", "CalcBtw\CalcBtw.csproj", "{4D0D85AC-2EB9-4BA9-9510-BD9F52020F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenteCalc", "RenteCalc\RenteCalc.csproj", "{3890A1BF-2310-46BF-B797-AA84A095C11E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{3D039920-6393-4746-B9EF-1EA6A913516E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE2084A-32E5-4D5C-B8E8-CC9AEAE45DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE2084A-32E5-4D5C-B8E8-CC9AEAE45DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE2084A-32E5-4D5C-B8E8-CC9AEAE45DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE2084A-32E5-4D5C-B8E8-CC9AEAE45DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCFF477-32E5-492C-92FE-0872592A36E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCFF477-32E5-492C-92FE-0872592A36E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCFF477-32E5-492C-92FE-0872592A36E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCFF477-32E5-492C-92FE-0872592A36E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C19CD9-9385-498E-B5FE-76CB31B52C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C19CD9-9385-498E-B5FE-76CB31B52C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C19CD9-9385-498E-B5FE-76CB31B52C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C19CD9-9385-498E-B5FE-76CB31B52C6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA91C04-7732-418A-AF9F-01E492ED2CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA91C04-7732-418A-AF9F-01E492ED2CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA91C04-7732-418A-AF9F-01E492ED2CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA91C04-7732-418A-AF9F-01E492ED2CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D0D85AC-2EB9-4BA9-9510-BD9F52020F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0D85AC-2EB9-4BA9-9510-BD9F52020F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0D85AC-2EB9-4BA9-9510-BD9F52020F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0D85AC-2EB9-4BA9-9510-BD9F52020F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3890A1BF-2310-46BF-B797-AA84A095C11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3890A1BF-2310-46BF-B797-AA84A095C11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3890A1BF-2310-46BF-B797-AA84A095C11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3890A1BF-2310-46BF-B797-AA84A095C11E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D039920-6393-4746-B9EF-1EA6A913516E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D039920-6393-4746-B9EF-1EA6A913516E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D039920-6393-4746-B9EF-1EA6A913516E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D039920-6393-4746-B9EF-1EA6A913516E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
